@@ -12,3 +12,8 @@
 - Nemusíte řešit přihlašováním práva atp.
 - Napište základní README.md se seznámením s aplikací a několika ukázkami (zmenšené screenshoty). 
 - Odevzdávejte jako odkaz na repo projektu na githubu.
+
+
+#Screenshots
+![clients](https://user-images.githubusercontent.com/92713632/233860213-5c68c4af-44ac-4ff9-bb58-ad1e226fcd68.jpg)
+![new_client](https://user-images.githubusercontent.com/92713632/233860217-6d61a649-c5e3-40fd-947a-8d796c383e06.jpg)
