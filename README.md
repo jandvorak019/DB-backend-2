@@ -43,3 +43,9 @@ VALUES
 ('Bob Joey', 'bobby@gmail.com', '+111555999', 'Hawaii, USA'),
 ('Rick Roll', 'rick.roll@gmail.com', '+324426235', 'Manchester, England'),
 ('John Lennon', 'john.lennon@gmail.com', '+2569235655', 'Bristol, England');
+
+### Bootstrap CSS & JS 
+#### CDN links
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js
