@@ -23,7 +23,7 @@
 ![new_client](https://user-images.githubusercontent.com/92713632/233860217-6d61a649-c5e3-40fd-947a-8d796c383e06.jpg)
 
 ## Online Shop Client DB
-DB Where you can **Add Clients**, **Edit** data or **Delete** the clients. Records management.
+DB Where you can **Add Clients**, **Edit** data or **Delete** the clients. Record management.
 
 ### SQL Queries
 CREATE TABLE clients (
