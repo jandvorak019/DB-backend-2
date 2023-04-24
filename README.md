@@ -21,3 +21,24 @@
 ![field_required](https://user-images.githubusercontent.com/92713632/233860296-b627502c-d909-4b1d-8de9-80db9d329b8d.jpg)
 ### New Client added
 ![new_client](https://user-images.githubusercontent.com/92713632/233860217-6d61a649-c5e3-40fd-947a-8d796c383e06.jpg)
+
+
+### SQL Queries
+CREATE TABLE clients (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR (100) NOT NULL,
+    email VARCHAR (200) NOT NULL UNIQUE,
+    phone VARCHAR(20) NULL,
+    address VARCHAR(200) NULL,
+    created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+
+INSERT INTO clients (name, email, phone, address)
+VALUES
+('John Doe', 'john.doe@microsoft.com', '+127256719', 'Nevada, USA'),
+('Chris Tucker', 'chris.tucker@gmail.com', '+222223731', 'Ohio, USA'),
+('Walter White', 'walter.white@gmail.com', '+8002255324', 'New Mexico, USA'),
+('Bob Joey', 'bobby@gmail.com', '+111555999', 'Hawaii, USA'),
+('Rick Roll', 'rick.roll@gmail.com', '+324426235', 'Manchester, England'),
+('John Lennon', 'john.lennon@gmail.com', '+2569235655', 'Bristol,, England');
