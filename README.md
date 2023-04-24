@@ -41,4 +41,4 @@ VALUES
 ('Walter White', 'walter.white@gmail.com', '+8002255324', 'New Mexico, USA'),
 ('Bob Joey', 'bobby@gmail.com', '+111555999', 'Hawaii, USA'),
 ('Rick Roll', 'rick.roll@gmail.com', '+324426235', 'Manchester, England'),
-('John Lennon', 'john.lennon@gmail.com', '+2569235655', 'Bristol,, England');
+('John Lennon', 'john.lennon@gmail.com', '+2569235655', 'Bristol, England');
